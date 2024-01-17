@@ -1,6 +1,6 @@
 # React App README
 
-## Project Name
+## React Map
 
 Short Description or Purpose of the Project
 
