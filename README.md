@@ -2,7 +2,7 @@
 
 ## React Map
 
-Short Description or Purpose of the Project
+A map application with features like: adding, deleting moving pins
 
 ## Table of Contents
 
