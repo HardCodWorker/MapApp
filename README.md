@@ -15,12 +15,12 @@ Short Description or Purpose of the Project
 
 ## Introduction
 
-A brief introduction to the project, highlighting its purpose and key features. Mention any dependencies or prerequisites required to run the project.
+A map application paired with fiirebase
 
 ## Features
 
-- Concisely list the main features of your application.
-- Bullet points work well for a quick overview.
+- adding markers
+- sync with firebase
 
 ## Installation
 
@@ -32,7 +32,10 @@ A brief introduction to the project, highlighting its purpose and key features. 
 
 ## Usage
 
-Provide instructions on how to use or test the application. Include any relevant commands or steps.
+1. Click any place in the map and the marker will appear
+2. click on the marker and it will be deleted
+3. Drag the marker to move it
+4. Click 'get rid of all pins' and all the quest markers will disappear
 
 ## Technologies Used
 
